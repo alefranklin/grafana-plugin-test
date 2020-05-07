@@ -1,0 +1,39 @@
+{
+  "type": "panel",
+  "name": "tb-plugin",
+  "id": "coffee-code-tb-plugin",
+  "info": {
+    "description": "Example plugin",
+    "author": {
+      "name": "Coffee Code",
+      "url": "www.coffeecode.eu"
+    },
+    "keywords": [
+      "cicle",
+      "coffee-code",
+      "test",
+      "example"
+    ],
+    "logos": {
+      "small": "img/logo.jpg",
+      "large": "img/logo.jpg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/grafana/simple-react-panel"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/grafana/simple-react-panel/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2020-05-07"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
